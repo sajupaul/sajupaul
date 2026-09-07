@@ -1,50 +1,21 @@
-# Hey there! 👋 I'm Joseph Saju Paul
+👋 Hey, I'm Joseph Saju Paul
 
-### 🛡️ Cybersecurity Learner | 💻 Full-Stack Developer | 🐍 Python Enthusiast
+🎓 BCA Graduate
+💻 Certified Python Full-Stack Developer
+🛡️ Cybersecurity Student
 
-I'm a BCA student passionate about **Cybersecurity, Networking, Python, and Full-Stack Development**.
+I have a background in full-stack development and I'm currently expanding
+my expertise into cybersecurity, networking, Linux, and secure systems.
 
-Currently focused on:
+🔭 Current Focus
+• Cybersecurity & Ethical Hacking
+• Networking
+• Linux
+• Python
+• Web Application Security
 
-- 🛡️ Learning Cybersecurity & Ethical Hacking
-- 🌐 Understanding Networking and Linux
-- 🐍 Building projects with Python
-- 💻 Exploring Full-Stack Development
-- 🔐 Learning how secure systems work
+💻 Development
+Python • JavaScript • React • Next.js • Java
 
----
-
-## 🚀 Tech Stack
-
-### 💻 Programming Languages
-
-- Python
-- Java
-- JavaScript
-
-### 🌐 Web Development
-
-- HTML
-- CSS
-- JavaScript
-- React
-- Next.js
-
-### 🛡️ Cybersecurity & Tools
-
-- Linux
-- Kali Linux
-- Networking
-- Git & GitHub
-- Cybersecurity Fundamentals
-
----
-
-## 📚 Currently Learning
-
-```text
-🛡️ Cybersecurity
-🌐 Networking
-🐧 Linux
-🐍 Python
-⚛️ React & Next.js
+🛠️ Tools & Technologies
+Linux • Kali Linux • Git • GitHub • Networking
