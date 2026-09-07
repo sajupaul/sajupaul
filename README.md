@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hey there! 👋 I'm Joseph Saju Paul
 
-<!--
-**sajupaul/sajupaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Cybersecurity Learner | 💻 Full-Stack Developer | 🐍 Python Enthusiast
 
-Here are some ideas to get you started:
+I'm a BCA student passionate about **Cybersecurity, Networking, Python, and Full-Stack Development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on:
+
+- 🛡️ Learning Cybersecurity & Ethical Hacking
+- 🌐 Understanding Networking and Linux
+- 🐍 Building projects with Python
+- 💻 Exploring Full-Stack Development
+- 🔐 Learning how secure systems work
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Programming Languages
+
+- Python
+- Java
+- JavaScript
+
+### 🌐 Web Development
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Next.js
+
+### 🛡️ Cybersecurity & Tools
+
+- Linux
+- Kali Linux
+- Networking
+- Git & GitHub
+- Cybersecurity Fundamentals
+
+---
+
+## 📚 Currently Learning
+
+```text
+🛡️ Cybersecurity
+🌐 Networking
+🐧 Linux
+🐍 Python
+⚛️ React & Next.js
